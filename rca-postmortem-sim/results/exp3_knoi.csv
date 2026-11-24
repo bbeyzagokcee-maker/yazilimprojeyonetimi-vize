@@ -1,0 +1,4 @@
+scenario,P_KN2_strictly_first,P_KN2_first_incl_ties,P_top3_set_unchanged_strict,P_full_order_unchanged_strict,mean_spearman_rho,min_KN2_score
+S1: her puan p=0.5 ile ±1,0.727,0.9176,0.8127,0.2796,0.9225,64
+"S2: her puan {-1,0,+1} eşit olasılık",0.6529,0.8485,0.7772,0.2236,0.8934,64
+S3: her puan {-2..+2} eşit olasılık,0.4768,0.6207,0.5493,0.0843,0.7274,27
